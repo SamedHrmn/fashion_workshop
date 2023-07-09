@@ -1,16 +1,16 @@
 # fashion_workshop
 
-A new Flutter project.
+This project contains the source code of the project for the Flutter Workshop event I attended as an instructor on July 8-9, 2023.
+It includes a simple interface and several REST API requests.
 
-## Getting Started
+## Dependencies
+* http
+* json_serializable
+* provider
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Project layers
+* model
+* view
+* service
+* viewmodel
+* widget
